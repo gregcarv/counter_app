@@ -9,6 +9,11 @@ The idea behind this assignment is to simulate a counter on the website for exam
   
 You can earn bonus points with some simple unit tests for frontend and backend.
 
-## Scripts
- - start-app: Starts the server on -> ip: your network ip, port: 3000
- - test: Simple tests on a function that increments and decrements a value
+## Setup
+ 1. clone repository locally  
+ 2. run `npm install`
+
+
+## Available scripts
+ - `start-app` : Starts the server on -> ip: your network ip, port: 3000
+ - `test` : Simple tests on a function that increments and decrements a value
